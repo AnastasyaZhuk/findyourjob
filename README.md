@@ -4,3 +4,5 @@
 - HTML
 - CSS
 - Bootstrap v5
+
+[Посмотреть демо](https://anastasyazhuk.github.io/findyourjob/)
